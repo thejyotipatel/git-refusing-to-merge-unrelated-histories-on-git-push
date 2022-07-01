@@ -14,6 +14,7 @@ $ git add .
 # Or file name
 
 $ git commit -m "commited"
+
 $ git push
 
 ```
